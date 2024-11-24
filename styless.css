@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins, sans-serif;
+  margin-left: 2%;
+  margin: 5px;
+}
+
+.container {
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.container .skills {
+  margin-top: 2%;
+}
+
+.container .skills .img img {
+  width: 50px;
+}
+.container .skills .img p {
+  justify-content: center;
+}
+
+#skill {
+  color: rgb(79, 79, 79);
+}
+
+p {
+  font-size: 0.8rem;
+}
